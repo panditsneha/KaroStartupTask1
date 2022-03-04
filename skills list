@@ -1,0 +1,17 @@
+web_devloper_skills = [
+    'django',
+    'html',
+    'css',
+    'nodejs',
+    'reactjs',
+    'flask',
+    'laravel'
+]
+machine_learning_skills = [
+    'nosql',
+    'pandas',
+    'numpy',
+    'matpotlib',
+    'seabron',
+    'scipy'
+]
